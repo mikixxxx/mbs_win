@@ -1,4 +1,3 @@
-AI generated.
 
 # MBS — Terminal Music Player
 
@@ -48,3 +47,6 @@ Use the **Shuffle** and **Repeat** checkboxes to control playlist playback. Repe
 ## Tech stack
 
 .NET 10, Terminal.Gui, NAudio, NAudio.Vorbis, and ATL (`z440.atl.core`). This Windows port replaces the original FMOD audio backend with NAudio.
+
+
+AI generated...

@@ -1,4 +1,3 @@
-AI generated.
 
 # MBS — portace na Windows 11
 
@@ -60,3 +59,6 @@ Zaškrtávací políčka **Shuffle / Repeat** upravují způsob pokračování p
 ## Původní zdroje
 
 Původní MBS pro linux.
+
+
+AI generated...
